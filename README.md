@@ -3,11 +3,13 @@
 
 [![Static Badge](https://img.shields.io/badge/GitHub-aizech?logo=github&label=aizech&color=black&link=https%3A%2F%2Fwww.github.com%2Faizech)
 ](https://www.github.com/aizech)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-huhu?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbernhard-zechmann-bb0971146)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-aizech?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbernhard-zechmann-bb0971146)
 ](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
-[![zechmann](https://img.shields.io/website?label=Website&up_message=zechmann.de&color=red&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
-[![watunga](https://img.shields.io/website?label=AI%20Multi%20Agents&up_message=watunga&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
 [![Static Badge](https://img.shields.io/badge/PayPal-bzechmann?logo=paypal&color=darkblue&link=https%3A%2F%2Fpaypal.me%2Fbzechmann)](https://paypal.me/bzechmann)
+[![zechmann](https://img.shields.io/website?label=Website&up_message=zechmann&color=red&url=https%3A%2F%2Fzechmann.com)](https://www.zechmann.com)
+[![watunga](https://img.shields.io/website?label=AI%20Multi%20Agents&up_message=watunga&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
+[![corpusanalytica](https://img.shields.io/website?label=Digital%20Health%20Platform&up_message=CorpusAnalytica&url=https%3A%2F%2Fcorpusanalytica.com)](https://www.corpusanalytica.com)
+
 
 🚀 *Revolutionizing the use of artificial intelligence in companies.* <br>
 🤖 *Creating specialized AI agents that collectively complete complex tasks autonomously and efficiently.*
@@ -42,4 +44,5 @@ We strive to fundamentally change the way companies work. By using our innovativ
   <img width="48%" src="https://streak-stats.demolab.com/?user=aizech&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aizech&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+
 
