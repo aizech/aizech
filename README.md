@@ -31,8 +31,6 @@ We strive to fundamentally change the way companies work. By using our innovativ
 - 💼 currently working on: **Developing a AI-Multi-Agents platform based on the OpenAI Assistants API**
 - 🌱 currently learning: **OpenAPIs**
 - 💬 Ask me about: **OpenAI Developer Platform, Vector and serverless DB, OpenAPIs, AI Agents, AI-Multi-Agents (MAS)**
-- 📂 Portfolio: <a href="www.watunga.com" target="_blank">www.watunga.com</a>
-- 📝 Website: <a href="www.zechmann.com" target="_blank">www.zechmann.com</a>
 
  ## Skills
 
