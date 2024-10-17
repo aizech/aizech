@@ -7,6 +7,7 @@
 ](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
 [![zechmann](https://img.shields.io/website?label=Website&up_message=zechmann.de&color=red&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
 [![watunga](https://img.shields.io/website?label=AI%20Multi%20Agents&up_message=watunga&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
+[![Static Badge](https://img.shields.io/badge/PayPal-bzechmann?logo=paypal&color=darkblue&link=https%3A%2F%2Fpaypal.me%2Fbzechmann)](https://paypal.me/bzechmann)
 
 🚀 *Revolutionizing the use of artificial intelligence in companies.* <br>
 🤖 *Creating specialized AI agents that collectively complete complex tasks autonomously and efficiently.*
@@ -42,6 +43,3 @@ We strive to fundamentally change the way companies work. By using our innovativ
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aizech&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 
-## Support
-
-<a href="https://paypal.me/bzechmann" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a>
