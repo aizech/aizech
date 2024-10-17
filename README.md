@@ -1,5 +1,5 @@
 
-# 👋 Hi, my name is Bernhard Zechmann
+# 👋 Hi, my name is Bernhard Zechmann (aizech)
 
 [![Static Badge](https://img.shields.io/badge/GitHub-aizech?logo=github&label=aizech&color=black&link=https%3A%2F%2Fwww.github.com%2Faizech)
 ](https://www.github.com/aizech)
@@ -14,7 +14,7 @@
 🚀 *Revolutionizing the use of artificial intelligence in companies.* <br>
 🤖 *Creating specialized AI agents that collectively complete complex tasks autonomously and efficiently.*
 
-## Our Mission
+## Our Mission 
 
 At Watunga, we believe that the future of work lies in human-machine collaboration. Our AI agents are designed to optimize business processes, scale automation, and free up teams to focus on strategic decisions.
 
