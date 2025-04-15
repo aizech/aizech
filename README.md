@@ -28,8 +28,8 @@ We strive to fundamentally change the way companies work. By using our innovativ
 
 ## Actual Topics 
 
-- 💼 currently working on: **Developing a AI-Multi-Agents platform based on the OpenAI Assistants API**
-- 🌱 currently learning: **OpenAPIs**
+- 💼 currently working on: **Developing a AI-Multi-Agents platform based on the OpenAI Assistants API - now Responses API and Agents SDK**
+- 🌱 currently learning: **OpenAPIs, MCP, CAG, RAG, ...**
 - 💬 Ask me about: **OpenAI Developer Platform, Vector and serverless DB, OpenAPIs, AI Agents, AI-Multi-Agents (MAS)**
 
  ## Skills
