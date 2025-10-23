@@ -38,69 +38,7 @@ A framework for deploying specialized AI agents that collaborate to complete com
 
 ## Tech Stack
 
-Thank you to all the open source projects that make this possible!
-
-### Core Technologies
-```txt
-Python 3.8+ · Streamlit · OpenAI API · Agno Framework
-```
-
-### AI & Machine Learning
-```txt
-OpenAI GPT Models · OpenAI Responses API · Langfuse · Model Context Protocol (MCP)
-Multi-Agent Systems · Semantic Search · RAG (Retrieval-Augmented Generation)
-Prompt Engineering · LangChain · LangChain Community
-```
-
-### Databases & Storage
-```txt
-LanceDB · SQLAlchemy · DuckDB · Tantivy · PostgreSQL (pgvector)
-Supabase · Vector Databases
-```
-
-### Web & Networking
-```txt
-HTTPX · aiohttp · Requests · urllib3 · Certifi · Primp
-REST APIs · BeautifulSoup4 · Selenium
-```
-
-### Authentication & Payments
-```txt
-Auth0 · Authlib · OAuth 2.0 · Stripe · st-paywall
-```
-
-### Data Processing & Analysis
-```txt
-Pandas · NumPy · PyArrow · Pydantic · Rich · OpenPyXL
-```
-
-### Medical & Healthcare
-```txt
-FHIR · HL7 · PACS · DICOM (pydicom) · Medical Imaging · HIPAA Compliance
-```
-
-### Document & Image Processing
-```txt
-Pillow · Matplotlib · python-docx · PyPDF · PyPDF2 · PDFplumber
-python-pptx · Unstructured · extract-msg · email-parser
-```
-
-### Search & Tools
-```txt
-DuckDuckGo Search · YouTube Transcript API · Pytube · ArXiv
-Office365-REST-Python-Client
-```
-
-### Development & Utilities
-```txt
-python-dotenv · nest-asyncio · aiofiles · Git · Typer · Cowsay · Markdown
-```
-
-### Architecture & Patterns
-```txt
-Multi-Agent Orchestration · Knowledge Graphs · Ontology · Memory Systems
-JAMstack · Cloud-Native Architecture · Docker
-```
+Thank you to all the open source projects and the great people that make this possible! You all are really appreciated!
 
 ## What I’m Looking For
 
