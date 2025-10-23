@@ -1,33 +1,115 @@
-
-# 👋 Hi, my name is Bernhard Zechmann (aizech)
-
-[![Static Badge](https://img.shields.io/badge/GitHub-aizech?logo=github&label=aizech&color=black&link=https%3A%2F%2Fwww.github.com%2Faizech)
-](https://www.github.com/aizech)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-aizech?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbernhard-zechmann-bb0971146)
-](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
-[![Static Badge](https://img.shields.io/badge/PayPal-bzechmann?logo=paypal&color=darkblue&link=https%3A%2F%2Fpaypal.me%2Fbzechmann)](https://paypal.me/bzechmann)
-[![zechmann](https://img.shields.io/website?label=Website&up_message=zechmann&color=red&url=https%3A%2F%2Fzechmann.com)](https://www.zechmann.com)
-[![watunga](https://img.shields.io/website?label=AI%20Multi%20Agents&up_message=watunga&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
-[![corpusanalytica](https://img.shields.io/website?label=Digital%20Health%20Platform&up_message=CorpusAnalytica&url=https%3A%2F%2Fcorpusanalytica.com)](https://www.corpusanalytica.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aizech?logo=github&label=aizech&color=black&link=https%3A%2F%2Fwww.github.com%2Faizech)](https://www.github.com/aizech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aizech?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbernhard-zechmann-bb0971146)](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
+[![Website](https://img.shields.io/website?label=Website&up_message=zechmann.de&color=red&url=https%3A%2F%2Fzechmann.de)](https://www.zechmann.de)
+[![watunga.ai](https://img.shields.io/website?label=AI%20Platform&up_message=watunga.ai&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.ai)
+[![CorpusAnalytica](https://img.shields.io/website?label=Digital%20Health&up_message=CorpusAnalytica&url=https%3A%2F%2Fcorpusanalytica.com)](https://www.corpusanalytica.com)
 
 
-🚀 *Revolutionizing the use of artificial intelligence in companies.* <br>
-🤖 *Creating specialized AI agents that collectively complete complex tasks autonomously and efficiently.*
 
-## Our Mission 
+# Corpus Analytica & watunga.ai — Architecting AI for Health & Enterprise
 
-At Watunga, we believe that the future of work lies in human-machine collaboration. Our AI agents are designed to optimize business processes, scale automation, and free up teams to focus on strategic decisions.
+Welcome to my GitHub! I'm **Bernhard Zechmann** (aizech), a systems architect and AI strategist based in Germany, building intelligent platforms that solve real-world problems in healthcare, enterprise automation, and human-machine collaboration.
 
-## Our Technology
+## Projects at the Intersection of AI & Impact
 
-With Watunga, we offer a flexible and adaptable AI infrastructure. Our agents and tools can be customized and seamlessly integrated into existing systems. Whether small companies or large corporations – we have the right solution for every challenge.
+### Corpus Analytica – Open Medical AI Platform (Community Edition)
 
-## Our Vision
+A cloud-native platform for AI-assisted medical diagnostics and second opinions.
 
-We strive to fundamentally change the way companies work. By using our innovative AI technologies, we want to increase productivity and maximize efficiency. Let’s shape the future together!
+- Multi-agent architecture ("Gods in White") for autonomous analysis
+- FHIR, HL7, PACS integration for clinical interoperability
+- Backend with secure consent & data vaults
+- UIs for patients, physicians, and researchers
+- Plugin ecosystem for nutrition, wearables, and predictive analytics
 
-## GitHub Stats
+### Watunga.ai
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aizech&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+A framework for deploying specialized AI agents that collaborate to complete complex tasks.
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=aizech&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+- Modular agent design with Agno and OpenAI Repsonses API
+- Business process automation for SMEs and enterprises
+- Scalable infrastructure with Auth0, JAMstack, and different vector databases (e.g. Lancedb, Pgvector, etc.)
+- Several RAG solutions and knowledge graphs for information retrieval and semantic search
+- Ontology for knowledge representation and reasoning
+- Memory for agent state and context
+- Streamlit-based assistant prototypes for rapid iteration (MVP's)
+
+*The Watunga Framework is the base of "Gods in White" and will be merged into Corpus Analytica. Stay tuned.*
+
+## Tech Stack
+
+Thank you to all the open source projects that make this possible!
+
+### Core Technologies
+```txt
+Python 3.8+ · Streamlit · OpenAI API · Agno Framework
+```
+
+### AI & Machine Learning
+```txt
+OpenAI GPT Models · OpenAI Responses API · Langfuse · Model Context Protocol (MCP)
+Multi-Agent Systems · Semantic Search · RAG (Retrieval-Augmented Generation)
+Prompt Engineering · LangChain · LangChain Community
+```
+
+### Databases & Storage
+```txt
+LanceDB · SQLAlchemy · DuckDB · Tantivy · PostgreSQL (pgvector)
+Supabase · Vector Databases
+```
+
+### Web & Networking
+```txt
+HTTPX · aiohttp · Requests · urllib3 · Certifi · Primp
+REST APIs · BeautifulSoup4 · Selenium
+```
+
+### Authentication & Payments
+```txt
+Auth0 · Authlib · OAuth 2.0 · Stripe · st-paywall
+```
+
+### Data Processing & Analysis
+```txt
+Pandas · NumPy · PyArrow · Pydantic · Rich · OpenPyXL
+```
+
+### Medical & Healthcare
+```txt
+FHIR · HL7 · PACS · DICOM (pydicom) · Medical Imaging · HIPAA Compliance
+```
+
+### Document & Image Processing
+```txt
+Pillow · Matplotlib · python-docx · PyPDF · PyPDF2 · PDFplumber
+python-pptx · Unstructured · extract-msg · email-parser
+```
+
+### Search & Tools
+```txt
+DuckDuckGo Search · YouTube Transcript API · Pytube · ArXiv
+Office365-REST-Python-Client
+```
+
+### Development & Utilities
+```txt
+python-dotenv · nest-asyncio · aiofiles · Git · Typer · Cowsay · Markdown
+```
+
+### Architecture & Patterns
+```txt
+Multi-Agent Orchestration · Knowledge Graphs · Ontology · Memory Systems
+JAMstack · Cloud-Native Architecture · Docker
+```
+
+## What I’m Looking For
+
+- Collaborators in AI agent design, medical informatics, and ethical AI
+- Feedback on architecture, UX, and data workflows
+- Contributions to open-source modules for Corpus Analytica
+
+---
+
+> *"We don't just develop software. We build systems that think."*  
+> 
+> **Bernhard Zechmann** | Founder of [CorpusAnalytica](https://www.corpusanalytica.com) & [watunga.ai](https://www.watunga.com)
