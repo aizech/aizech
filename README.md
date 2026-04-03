@@ -47,32 +47,29 @@ A modular skill library that gives AI agents clinical‑grade radiology workflow
 **Key Features:**
 
 - **Modular skills architecture** that agents can load individually or as full workflows including plugins and tools.
-
 - **End‑to‑end radiology pipeline coverage:** imaging, reporting, communication, quality, research.
-
 - **PACS/DICOM/HL7‑FHIR integration patterns** for real clinical environments.
-
 - **AI‑augmented workflows** including detection tools, report QC, and dataset prep.
-
 - **Corpus Analytica–verified clinical standards** ensuring safety, consistency, and interoperability.
 
 ---
 
-### Corpus Analytica – Open Medical AI Platform (HALO Core)
+### HALO Core - Holistic Agent Logical Orchestrator
 
 [![CorpusAnalylica](https://img.shields.io/badge/CorpusAnalytica-HALO%20Core-teal?style=flat-square&logo=heartbeat&label=Demo)](https://halocore.streamlit.app/)
 
-A framework for deploying specialized AI agents that collaborate to complete complex tasks.
+HALO Core is an intelligence workspace for teams that need to turn raw information into clear, usable outputs.
 
 **[Documentation](https://github.com/aizech/halo_core) • [Live Demo](https://halocore.streamlit.app/)**
 
 **Key Features:**
+- **Team-agent capable** - run specialized AI roles with delegation strategies.
+- **Complexity-behind-glass** - transparent execution, inspect tool calls, agent actions, and traces when needed. 
+- **Source-grounded** - answers are driven by selected evidence.
 - **Modular Design** - Specialized agents with Agno and OpenAI Responses API
-- **Business Automation** - Process optimization for SMEs and enterprises
 - **Scalable Infrastructure** - Auth0, JAMstack, vector databases (LanceDB, PGvector)
-- **Knowledge Systems** - RAG solutions, knowledge graphs, semantic search
-- **AI Memory** - Agent state management and contextual understanding
-- **Rapid MVPs** - Streamlit-based prototypes for fast iteration
+- **Knowledge Systems and AI Memory** - RAG solutions, knowledge graphs, semantic search, contextual understanding
+- **Business Automation and Workflow-first** - Process optimization, built for end-to-end work, not one-off prompts, e.g. generate reports, infographics, and data tables.
 
 ---
 
@@ -80,21 +77,14 @@ A framework for deploying specialized AI agents that collaborate to complete com
 
 [![CorpusAnalylica](https://img.shields.io/badge/CorpusAnalytica-Corpus%20Analyzer-teal?style=flat-square&logo=heartbeat&label=Demo)](https://corpus-analyzer.streamlit.app/)
 
-A Streamlit‑based, agent‑driven medical AI platform that performs intelligent diagnostics, medical image analysis, and research retrieval through a secure, intuitive interface. 
+A Streamlit‑based, agent‑driven medical AI app that performs intelligent diagnostics, medical image analysis, and research retrieval through a secure, intuitive interface. 
 
 **[Documentation](https://github.com/aizech/corpus-analyzer) • [Live Demo](https://corpus-analyzer.streamlit.app/)**
 
 
 **Key Features:**
-- Medical Imaging Agent for structured analysis of X‑ray, CT, MRI, and ultrasound images. 
-
-- Modern Streamlit UI with light/dark themes, real‑time streaming, and configuration pages. 
-
-- Integrated Knowledge System using LanceDB for vector search and evidence‑based context. 
-
-- Feedback & Issue Routing with email (SMTP) support and GitHub issue templates. 
-
-- HALO Multi‑Agent Foundation preparing the platform for future multi‑agent orchestration.
+- **Medical Imaging Agent** for structured analysis of X‑ray, CT, MRI, ultrasound images, all images including mobile phone camera shots. 
+- **Modern Streamlit UI** with light/dark themes, real‑time streaming, and configuration pages. 
 
 ---
 
