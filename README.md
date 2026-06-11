@@ -1,13 +1,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-aizech?logo=github&label=aizech&color=black&link=https%3A%2F%2Fwww.github.com%2Faizech)](https://www.github.com/aizech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aizech?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbernhard-zechmann-bb0971146)](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
-[![Website](https://img.shields.io/website?label=Website&up_message=zechmann.de&url=https%3A%2F%2Fzechmann.de)](https://www.zechmann.de)
-[![watunga.com](https://img.shields.io/website?label=AI%20Platform&up_message=watunga.com&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
-[![CorpusAnalytica](https://img.shields.io/website?label=Digital%20Health&up_message=CorpusAnalytica&url=https%3A%2F%2Fcorpusanalytica.com)](https://www.corpusanalytica.com)
-[![Gods in White](https://img.shields.io/website?label=AI%20Health%20News&up_message=Gods%20in%20White&url=https%3A%2F%2Fgodsinwhite.com)](https://www.godsinwhite.com)
 
-
-
-# Bernhard Zechmann (aizech)  
 # Architecting AI for Health & Enterprise
 
 Welcome to my GitHub! I'm **Bernhard Zechmann** (aizech), a systems architect and AI strategist based in Germany, building intelligent platforms that solve real-world problems in healthcare, enterprise automation, and human-machine collaboration.
