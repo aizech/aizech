@@ -1,117 +1,83 @@
-[![GitHub followers](https://img.shields.io/github/followers/aizech?style=social&logo=github&label=Follow)](https://github.com/aizech?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/aizech?style=social&logo=github&label=Stars)](https://github.com/aizech?tab=stars)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
-[![Website](https://img.shields.io/badge/Website-zechmann.de-red?style=flat-square&logo=google-chrome&label=Website)](https://zechmann.de)
-[![watunga.ai](https://img.shields.io/badge/AI%20Platform-watunga.ai-purple?style=flat-square&logo=robot&label=AI%20Platform)](https://watunga.com)
-[![CorpusAnalytica](https://img.shields.io/badge/Digital%20Health-CorpusAnalytica-teal?style=flat-square&logo=heartbeat&label=Digital%20Health)](https://corpusanalytica.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aizech?logo=github&label=aizech&color=black&link=https%3A%2F%2Fwww.github.com%2Faizech)](https://www.github.com/aizech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aizech?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbernhard-zechmann-bb0971146)](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
+[![Website](https://img.shields.io/website?label=Website&up_message=zechmann.de&color=red&url=https%3A%2F%2Fzechmann.de)](https://www.zechmann.de)
+[![watunga.com](https://img.shields.io/website?label=AI%20Platform&up_message=watunga.com&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
+[![CorpusAnalytica](https://img.shields.io/website?label=Digital%20Health&up_message=CorpusAnalytica&url=https%3A%2F%2Fcorpusanalytica.com)](https://www.corpusanalytica.com)
+[![Gods in White](https://img.shields.io/website?label=AI%20Health%20News&up_message=Gods%20in%20White&url=https%3A%2F%2Fgodsinwhite.com)](https://www.godsinwhite.com)
 
 
----
 
-<div align="center">
+# Bernhard Zechmann (aizech) — Architecting AI for Health & Enterprise
 
-# Architecting AI for Health & Enterprise
+Welcome to my GitHub! I'm **Bernhard Zechmann** (aizech), a systems architect and AI strategist based in Germany, building intelligent platforms that solve real-world problems in healthcare, enterprise automation, and human-machine collaboration.
 
-### **Bernhard Zechmann** | AI Systems Architect & Strategist
+- **Personal website:** [zechmann.de](https://www.zechmann.de)
+- **AI Platform:** [watunga.com](https://www.watunga.com)
+- **Digital Health:** [corpusanalytica.com](https://www.corpusanalytica.com)
+- **AI Health News (DE):** [godsinwhite.com](https://www.godsinwhite.com)
 
-*Building intelligent platforms that solve real-world problems in healthcare, enterprise automation, and human-machine collaboration.*
+## Projects at the Intersection of AI & Impact
 
-📍 **Germany** | 🕐 **CET/CEST**
+### HALO Core
 
-</div>
+Source-grounded multi-agent intelligence workspace that transforms complex information into trusted insights.
 
----
+- 4 coordination modes including coordinated RAG
+- Studio for reports, podcasts, presentations, and data tables
+- Live interaction with medical AI agents and clinical skills
+- Real-time case reasoning with traceable agent steps
 
-I'm a **systems architect and AI strategist** passionate about creating intelligent systems that augment human capabilities in healthcare and enterprise environments. My work focuses on:
+[GitHub](https://github.com/aizech/halo-core) · [Open App](https://halocore.streamlit.app/) · [Details](https://www.corpusanalytica.com/products/halo-core)
 
-- **Medical AI**: Democratizing access to medical expertise through AI-powered diagnostics
-- **Multi-Agent Systems**: Building collaborative AI teams that solve complex problems  
-- **AI Agent Technologies**: Developing Agent Skills, Tools, Plugins, Agent Harnessing   
-- **Ethical AI**: Ensuring responsible, secure, and privacy-preserving AI implementations
+### Corpus Analyzer
 
-### Philosophy
-> *"We don't just develop software. We build systems that think."*
+Agent-driven medical AI platform for intelligent diagnostics, image analysis, and research insights.
 
----
+- Medical imaging analysis (X-ray, MRI, CT, DICOM)
+- Real-time streaming responses
+- BYOK (bring-your-own-key) via in-app configuration
+- Built for real clinical workflows
 
-## Featured Projects
+[GitHub](https://github.com/aizech/corpus-analyzer) · [Open App](https://corpus-analyzer.streamlit.app/) · [Details](https://www.corpusanalytica.com/products/corpus-analyzer)
 
-### Clinical‑Skills - Radiology‑Grade Skills for Harnessing AI Agents
+### PainTracker
 
-[![CorpusAnalylica](https://img.shields.io/badge/CorpusAnalytica-Clinical%20Skills-teal?style=flat-square&logo=heartbeat&label=Agent)](https://www.corpusanalytica.com/skills/)
+Interactive 3D pain mapping WordPress plugin that lets patients show exactly where it hurts.
 
-A modular skill library that gives AI agents clinical‑grade radiology workflows for imaging analysis, PACS/DICOM integration, reporting, patient communication, and research.
+- 3D male/female body models via Babylon.js
+- Adjustable markers with descriptions
+- Multi-touch smartphone support
 
-**[🔗 agent skills](https://github.com/aizech/clinical-skills) • [Live Demo - coming soon]**
+[GitHub](https://github.com/aizech/corpus-analytica-paintracker) · [Details](https://www.corpusanalytica.com/products/paintracker)
 
-**Key Features:**
+### Clinical Skills
 
-- **Modular skills architecture** that agents can load individually or as full workflows including plugins and tools.
-- **End‑to‑end radiology pipeline coverage:** imaging, reporting, communication, quality, research.
-- **PACS/DICOM/HL7‑FHIR integration patterns** for real clinical environments.
-- **AI‑augmented workflows** including detection tools, report QC, and dataset prep.
-- **Corpus Analytica–verified clinical standards** ensuring safety, consistency, and interoperability.
+A collection of AI agent skills focused on medical imaging and healthcare workflows.
 
----
+- Radiology context, PACS workflow, PubMed search
+- DICOM web query and report analysis
+- Works with Claude Code, Codex, Cursor, Windsurf, and other agents
 
-### HALO Core - Holistic Agent Logical Orchestrator
+[GitHub](https://github.com/aizech/clinical-skills) · [Details](https://www.corpusanalytica.com/skills/)
 
-[![CorpusAnalylica](https://img.shields.io/badge/CorpusAnalytica-HALO%20Core-teal?style=flat-square&logo=heartbeat&label=Demo)](https://halocore.streamlit.app/)
+### Open Source Tools
 
-HALO Core is an intelligence workspace for teams that need to turn raw information into clear, usable outputs.
+- **multi-git** — Set up and manage multiple Git identities on a single Windows machine using SSH host aliases and conditional includes. [GitHub](https://github.com/aizech/multi-git)
+- **simple-membership-menu** — WordPress plugin to configure menu item visibility by Simple Membership roles. [GitHub](https://github.com/aizech/simple-membership-menu)
 
-**[Documentation](https://github.com/aizech/halo_core) • [Live Demo](https://halocore.streamlit.app/)**
+## Open Source Projects & People
 
-**Key Features:**
-- **Team-agent capable** - run specialized AI roles with delegation strategies.
-- **Complexity-behind-glass** - transparent execution, inspect tool calls, agent actions, and traces when needed. 
-- **Source-grounded** - answers are driven by selected evidence.
-- **Modular Design** - Specialized agents with Agno and OpenAI Responses API
-- **Scalable Infrastructure** - Auth0, JAMstack, vector databases (LanceDB, PGvector)
-- **Knowledge Systems and AI Memory** - RAG solutions, knowledge graphs, semantic search, contextual understanding
-- **Business Automation and Workflow-first** - Process optimization, built for end-to-end work, not one-off prompts, e.g. generate reports, infographics, and data tables.
+Thank you to all open source projects and the great people that make this possible! You all are really appreciated!
 
----
+## What I’m Looking For
 
-### Corpus Analyzer – Agent‑Driven Medical AI Application
-
-[![CorpusAnalylica](https://img.shields.io/badge/CorpusAnalytica-Corpus%20Analyzer-teal?style=flat-square&logo=heartbeat&label=Demo)](https://corpus-analyzer.streamlit.app/)
-
-A Streamlit‑based, agent‑driven medical AI app that performs intelligent diagnostics, medical image analysis, and research retrieval through a secure, intuitive interface. 
-
-**[Documentation](https://github.com/aizech/corpus-analyzer) • [Live Demo](https://corpus-analyzer.streamlit.app/)**
-
-
-**Key Features:**
-- **Medical Imaging Agent** for structured analysis of X‑ray, CT, MRI, ultrasound images, all images including mobile phone camera shots. 
-- **Modern Streamlit UI** with light/dark themes, real‑time streaming, and configuration pages. 
+- Collaborators in AI agent design, medical informatics, and ethical AI
+- Feedback on architecture, UX, and clinical data workflows
+- Contributors to open-source modules — especially **clinical-skills**, **halo-core**, and **corpus-core-saas**
+- Enterprise partners for **watunga.ai** agent orchestration and **Corpus Analytica** digital health deployments
 
 ---
 
-## Technical Expertise
-
-### Core Competencies
-
-| **Medical AI** | **Agent Systems** | **Backend Architecture** | **Frontend Development** |
-|------------------|---------------------|---------------------------|---------------------------|
-| DICOM/PACS Integration | Multi-Agent Orchestration | Microservices Design | Streamlit Applications |
-| FHIR/HL7 Standards | RAG Implementation | Vector Databases | Responsive Web Design |
-| Medical Imaging Analysis | Knowledge Graphs | API Design | User Experience |
-| Healthcare Compliance | Workflow Automation | Database Architecture | Interface Design |
-
----
-
-<div align="center">
-
-## Let's Build the Future of AI Together
-
-*"We don't just develop software. We build systems that think."*
-
-**Bernhard Zechmann**  
-Founder of [CorpusAnalytica](https://www.corpusanalytica.com) & [watunga.ai](https://watunga.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/aizech?style=social&logo=github&label=Follow)](https://github.com/aizech?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail)](mailto:hello@corpusanalytica.com)
-
-</div>
+> *"We don't just develop software. We build systems that think."*  
+> 
+> **Bernhard Zechmann** | Founder of [CorpusAnalytica](https://www.corpusanalytica.com) & [watunga.com](https://www.watunga.com)
