@@ -1,20 +1,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-aizech?logo=github&label=aizech&color=black&link=https%3A%2F%2Fwww.github.com%2Faizech)](https://www.github.com/aizech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aizech?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbernhard-zechmann-bb0971146)](https://www.linkedin.com/in/bernhard-zechmann-bb0971146)
-[![Website](https://img.shields.io/website?label=Website&up_message=zechmann.de&color=red&url=https%3A%2F%2Fzechmann.de)](https://www.zechmann.de)
+[![Website](https://img.shields.io/website?label=Website&up_message=zechmann.de&url=https%3A%2F%2Fzechmann.de)](https://www.zechmann.de)
 [![watunga.com](https://img.shields.io/website?label=AI%20Platform&up_message=watunga.com&url=https%3A%2F%2Fwatunga.com)](https://www.watunga.com)
 [![CorpusAnalytica](https://img.shields.io/website?label=Digital%20Health&up_message=CorpusAnalytica&url=https%3A%2F%2Fcorpusanalytica.com)](https://www.corpusanalytica.com)
 [![Gods in White](https://img.shields.io/website?label=AI%20Health%20News&up_message=Gods%20in%20White&url=https%3A%2F%2Fgodsinwhite.com)](https://www.godsinwhite.com)
 
 
 
-# Bernhard Zechmann (aizech) — Architecting AI for Health & Enterprise
+# Bernhard Zechmann (aizech)  
+# Architecting AI for Health & Enterprise
 
 Welcome to my GitHub! I'm **Bernhard Zechmann** (aizech), a systems architect and AI strategist based in Germany, building intelligent platforms that solve real-world problems in healthcare, enterprise automation, and human-machine collaboration.
-
-- **Personal website:** [zechmann.de](https://www.zechmann.de)
-- **AI Platform:** [watunga.com](https://www.watunga.com)
-- **Digital Health:** [corpusanalytica.com](https://www.corpusanalytica.com)
-- **AI Health News (DE):** [godsinwhite.com](https://www.godsinwhite.com)
 
 ## Projects at the Intersection of AI & Impact
 
@@ -50,7 +46,7 @@ Interactive 3D pain mapping WordPress plugin that lets patients show exactly whe
 
 [GitHub](https://github.com/aizech/corpus-analytica-paintracker) · [Details](https://www.corpusanalytica.com/products/paintracker)
 
-### Clinical Skills
+### AI Agent - Clinical Skills
 
 A collection of AI agent skills focused on medical imaging and healthcare workflows.
 
@@ -64,17 +60,6 @@ A collection of AI agent skills focused on medical imaging and healthcare workfl
 
 - **multi-git** — Set up and manage multiple Git identities on a single Windows machine using SSH host aliases and conditional includes. [GitHub](https://github.com/aizech/multi-git)
 - **simple-membership-menu** — WordPress plugin to configure menu item visibility by Simple Membership roles. [GitHub](https://github.com/aizech/simple-membership-menu)
-
-## Open Source Projects & People
-
-Thank you to all open source projects and the great people that make this possible! You all are really appreciated!
-
-## What I’m Looking For
-
-- Collaborators in AI agent design, medical informatics, and ethical AI
-- Feedback on architecture, UX, and clinical data workflows
-- Contributors to open-source modules — especially **clinical-skills**, **halo-core**, and **corpus-core-saas**
-- Enterprise partners for **watunga.ai** agent orchestration and **Corpus Analytica** digital health deployments
 
 ---
 
